@@ -8,7 +8,7 @@ function Resume() {
       <div className="absolute inset-0 bg-gradient-to-b from-teal-500/10 to-transparent pointer-events-none rounded-2xl" />
       
       <div className="flex justify-between items-center mb-2 px-6 relative">
-        <h1 className="section-heading pt-4">Resume</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-8 section-heading pt-4 section-heading pt-4">Resume</h1>
         <a
           href="/Hemant-Resume.pdf"
           download
