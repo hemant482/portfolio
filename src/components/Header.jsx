@@ -16,7 +16,7 @@ const Header = () => {
             to="/" 
             className="text-2xl font-bold text-navy-600 hover:text-navy-700 transition-colors"
           >
-            HEMANT
+            {`< HEMANT />`}
           </Link>
           
           <nav className="flex space-x-8 font-semibold">
